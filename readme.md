@@ -1,119 +1,92 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=29&lines=Hello!+It's+Nipun+Fernando;Full-stack+Software+Engineer..." alt="Typing SVG">
-    </a>
-</div>
-
-
-<div align="center">
-<h1>
-  👋 Welcome to My GitHub Profile
-</h1>
-
-As a **dedicated and driven software engineering student**, I am currently pursuing a Higher Diploma in Computing and Software Engineering. My expertise spans multiple areas, allowing me to deliver high-quality, scalable, and innovative solutions. I'm passionate about:
-- **Full-Stack Development**
-- **Web & Mobile App Development**  
-- **Software Design & Architecture**  
-- **Problem Solving & System Optimization**
-
-My goal is to use technology to solve complex problems and create impactful software that transforms industries.
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nipun+Fernando;Software+Engineering+Student;Builder+of+clean+%26+useful+apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
-<h1>
-  🌐 Connect with Me 
-</h1>  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamod-madhusanka)    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamodmadhusanka55@gmail.com)  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chamodmadhusank1)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chamod_madhusanka_/) 
-
-</div>
-
----
-
-<div align="center">
-    <h1>
-        🛠️ Tech Stack & Expertise  
-    </h1>
- 
+  <img src="https://img.shields.io/badge/Focus-Modern%20Web%20%26%20Mobile-7C3AED?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Currently-Learning%20%26%20Building-0F172A?style=for-the-badge" alt="Learning" />
 </div>
 
 <div align="center">
+  <h1>About Me</h1>
+  <p>
+    I’m <strong>Nipun Fernando</strong>, a software engineering student who enjoys turning ideas into practical digital products.
+    I like building interfaces that feel modern, systems that stay organized, and code that is easy to maintain.
+  </p>
+</div>
 
-<table>
+<table align="center">
   <tr>
-    <td>
-    
- <div align="center" />
-    <h2> Programming Languages </h2>
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  </div>
-    
-  
-  </td>
-<td>
-
-  <div align="center" />
-    <h2>  Web Development  </h2>
-    
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  </div>
- 
-  
-   </td>
-  </tr>
-  <tr>
-    <td>
-
-  <div align="center" />
-    <h2>   Tools & Platforms  </h2>
-    
-   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  </div>
-   
-  </td>
-<td>
-
-<div align="center" />
-  <h2> Databases  </h2>
-    
-   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-</div>
-
-  </td>
-    
+    <td width="50%">
+      <h3>What I like building</h3>
+      <ul>
+        <li>Web apps with clean UI and smooth user flow</li>
+        <li>Mobile-friendly experiences</li>
+        <li>Back-end logic and APIs</li>
+        <li>Simple solutions to real problems</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>What I value</h3>
+      <ul>
+        <li>Clear structure and readable code</li>
+        <li>Learning by building</li>
+        <li>Practical problem solving</li>
+        <li>Design that feels polished</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
+<div align="center">
+  <h2>Tech Stack</h2>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </p>
 </div>
 
----
-
------
+<div align="center">
+  <h2>Connect</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/nipun-fernando-324274296/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:nipunpahasara2003@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/NipunCreations">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 <div align="center">
-  <a href="https://github.com/chamod419">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamod419&theme=radical" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chamod419&theme=radical" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chamod419&theme=radical" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamod419&theme=radical" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamod419&theme=radical" height="180em" />
+  <h2>GitHub Snapshot</h2>
+  <a href="https://github.com/NipunCreations">
+    <img src="https://github-readme-stats.vercel.app/api?username=NipunCreations&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipunCreations&theme=radical&hide_border=true" alt="GitHub streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunCreations&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
   </a>
 </div>
 
----
-
-<div align="center" />
- <h1> ✨ Fun Facts </h1>
+<div align="center">
+  <h2>Highlights</h2>
+  <p>
+    I enjoy building projects that combine thoughtful design, useful features, and reliable implementation.
+    My focus is on growing as a full-stack developer while keeping the user experience simple and clean.
+  </p>
 </div>
 
-- 🎮 Gaming fuels my creativity and helps me problem-solve in new ways.
-- 🌏 Passionate about traveling and exploring diverse cultures to gain new perspectives.
-- 🧗 Thrill-seeker with a love for rock climbing, hiking, and adventure sports.
-
----
-
 <div align="center">
-  <h3>"Great things never come from comfort zones. Let's keep building!" 💡</h3>
+  <em>“Keep improving the craft, one project at a time.”</em>
 </div>
